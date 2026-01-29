@@ -14,7 +14,7 @@
 - 🎵 I also create music and share it on [Spotify](https://open.spotify.com/artist/3Z6dvGiSZIWwhZFAcwVjNb?si=7398d90b98874f19)
 - 💡 I believe consistency beats talent
 
-<!-----
+<!----- -->
 
 ## 🛠️ Tech Stack
 
@@ -27,13 +27,14 @@
 **Currently learning**
 - Algorithms & Data Structures
 - System Design basics
--->
 
-<!--## 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsHounder&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHounder&layout=compact&theme=tokyonight)
--->
+
+
 ---
 
 ## 🌐 Connect with Me
