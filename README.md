@@ -2,7 +2,7 @@
 
 
 🎓 **Computer Science Student**  
-💻 Aspiring Software Developer 😅  
+💻 Aspiring Software Developer  
 🔥 Building skills. Chasing goals. No excuses.
 
 ---
