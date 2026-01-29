@@ -40,6 +40,6 @@
 
 <!-- - 💼 LinkedIn: <your link>
 - 🌍 Portfolio: <your link> -->
-- ✉️ Email: hounder.dev@gmail.com
+- ✉️ Email: [hounder.dev@gmail.com](mailto:hounder.dev@gmail.com)
 
 ⭐️ *Still learning. Still grinding. Still hungry.*
